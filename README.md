@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🌱 Estou aprendendo os Fundamentos Web
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deboraferfan@gmail.om)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborafantini/)
 
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 -->
 
 ##### Tecnologias que uso
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 -->
 
-### My GitHub Stats
+### Meu GitHub Stats
 
 ![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true)
 
