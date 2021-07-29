@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
-- 🎓 Graduanda do curso de Análise e Desenvolvimento pela FIAP
+- 🎓 Graduanda do curso de Análise e Desenvolvimento de Sistemas pela FIAP
 - 🌱 Estou aprendendo os Fundamentos Web
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
