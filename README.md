@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### Meu GitHub Stats
 
-![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true)
+![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true) ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
 
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
+![Snake animation](https://github.com/deborafantinif/deborafantinif/blob/output/github-contribution-grid-snake.svg)
 
