@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
 -->
 
 ##### Tecnologias que uso
@@ -55,7 +56,3 @@ Here are some ideas to get you started:
 ### Meu GitHub Stats
 
 ![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true) 
-
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
-
-
