@@ -1,5 +1,3 @@
-
-
 <!--
 **deborafantinif/deborafantinif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Olá, sou a Debora:
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
+## Olá!! Eu sou a Debora Fantini:
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
 - 🎓 Graduanda do curso de Análise e Desenvolvimento de Sistemas pela FIAP
-- 🌱 Estou aprendendo os Fundamentos Web
+- 🌱 Estou aprendendo Front-End
+- 😄 Pronomes:ela/dela
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deboraferfan@gmail.om)
@@ -38,6 +34,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
+![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true) 
 -->
 
 ##### Tecnologias que uso
@@ -55,4 +52,8 @@ Here are some ideas to get you started:
 
 ### Meu GitHub Stats
 
-![Debora's github stats](https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true) 
+<div align="center">
+  <a href="https://github.com/deborafantinif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborafantinif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
