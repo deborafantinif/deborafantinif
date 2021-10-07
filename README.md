@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Olá!! Eu sou a Debora Fantini:
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
 - 🎓 Graduanda do curso de Análise e Desenvolvimento de Sistemas pela FIAP
 - 🌱 Estou aprendendo Front-End
