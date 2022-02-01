@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
 - 🎓 Graduanda do curso de Análise e Desenvolvimento de Sistemas pela FIAP
-- 🌱 Estou aprendendo Front-End
+- 🌱 Estou aprendendo Back-End
 - 😄 Pronomes:ela/dela
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 ![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafantinif&layout=compact&bg_color=ffffff&text_color=333333)
