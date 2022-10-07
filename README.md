@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
 - 🎓 Cursei o 1º ano de Análise e Desenvolvimento de Sistemas pela FIAP
-- 🌱 Estou aprendendo Java e Typescript
+- 🌱 Estou aprendendo Python
 - 😄 Pronomes:ela/dela
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
+<!-- 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-<!--  
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
