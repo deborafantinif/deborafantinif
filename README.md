@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🎓 Estudante do curso de Desenvolvimento Web pela Trybe
 - 🎓 Cursei o 1º ano de Análise e Desenvolvimento de Sistemas pela FIAP
-- 🌱 Estou aprendendo Python
+- 🌱 Estou aprendendo conceitos da Ciência da Computação e Python
 - 😄 Pronomes:ela/dela
 - :mailbox: Entre em contato comigo pelos canais abaixo:
 
