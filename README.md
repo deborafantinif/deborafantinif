@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+- 🎓 Cursando Ciência da Computação pela Estácio
 - 🎓 Finalizei recentemento o curso de Desenvolvimento Web pela Trybe
 - 🎓 Cursei o 1º ano de Análise e Desenvolvimento de Sistemas pela FIAP
 - 🌱 Estou aprendendo conceitos da Ciência da Computação e Python
